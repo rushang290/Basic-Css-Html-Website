@@ -1,0 +1,136 @@
+
+body{
+  margin:0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  font-size: 1.3rem;
+  color: #40514E
+  }
+p{
+  font-weight: bold;
+  line-height: 2;
+}
+hr{
+  width: 100px;
+  border-top: dotted 6px;
+  color: #EAF6F6;
+  margin: 100px auto 100px auto;
+}
+h1 {
+  margin: 50px auto 0 auto;
+  color:#66BFBF;
+  line-height: 2;
+  font-size: 5.625rem;
+  font-family:'Sacramento',cursive;
+}
+
+h2{
+  color:#66BFBF;
+    font-family:'Sacramento',cursive;
+  font-size: 2.9rem;
+  font-weight: bold;
+  padding-bottom: 10px;
+}
+
+h3{
+  color:#11999E;
+  font-family: 'Montserrat',sans-serif;
+}
+
+
+.top-container{
+  position: relative;
+  padding-top: 80px;
+  background-color: #EAF6F6;
+}
+
+.intro{
+  width: 30%;
+  margin: auto;
+}
+
+.skill-row{
+  width: 60%;
+  margin:100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.middle-container{
+  margin: 100px 0;
+}
+
+.bottom-container{
+  background-color: #66BFBF;
+  padding:  50px 0 20px;
+}
+
+.profileimg{
+    border-radius: 50%;
+  width:15%;
+}
+.top-cloud{
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+.bottom-cloud{
+  position: absolute;
+  left: 250px;
+  bottom: 300px;
+}
+
+.skill{
+  width: 25%;
+  border-radius: 50%;
+  float: left;
+  margin-right: 30px;
+}
+
+.skill2{
+  width: 25%;
+  border-radius: 50%;
+  float:right;
+  margin-left: 30px;
+}
+
+.contact-me{
+  margin-bottom: 100px;
+}
+.end{
+  width: 30%;
+  margin: auto;
+}
+
+.btn {
+	background: #11cdd4;
+  border-radius: 8px;
+  padding: 10px 20px 10px 20px;
+  color: #ffffff;
+  font-size: 20px;
+  font-family: 'Montserrat',sans-serif;
+  text-decoration: none;
+}
+
+.btn:hover{
+  background: #30e3cb;
+  text-decoration: none;
+}
+
+
+a{
+  color:#11999E;
+  font-family: 'Montserrat',sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+a:hover{
+  color:#eaf6f6;
+}
+
+.copyright {
+  color: #eaf6f6;
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
